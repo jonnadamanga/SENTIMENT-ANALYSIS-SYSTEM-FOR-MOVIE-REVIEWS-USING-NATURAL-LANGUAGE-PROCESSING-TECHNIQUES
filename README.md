@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-SYSTEM-FOR-MOVIE-REVIEWS-USING-NATURAL-LANGUAGE-PROCESSING-TECHNIQUES
+Online movie platforms receive thousands of user reviews every day, making it difficult for viewers and producers to understand public opinion through manual analysis. Traditional review evaluation methods require significant time and effort and often fail to capture the overall sentiment expressed in large volumes of textual data. 
